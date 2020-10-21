@@ -10,6 +10,8 @@ void read()
 
 int main()
 {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
 	read();
 	int t;
 	cin >> t;
